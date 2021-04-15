@@ -1,0 +1,9 @@
+li {
+    list-style: none;
+}
+.mydiv {
+    width: 100px;
+    height: 100px;
+    background: url('../images/lights.jpg');
+    background-size: cover;
+}
